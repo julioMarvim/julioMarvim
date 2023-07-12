@@ -7,7 +7,11 @@ Sou Desenvolvedor backend a aproximadamente 5 anos. Para me conhecer melhor vou 
 [![Facebook](https://img.shields.io/badge/marvim.code-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091752773027)
 [![LinkedIn](https://img.shields.io/badge/marvinsjulio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marvinsjulio)
 
-![Julio Marvim GitHub stats](https://github-readme-stats.vercel.app/api?username=julioMarvim&show_icons=true&theme=dracula)
+<div>
+  <a href="https://github.com/julioMarvim">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=julioMarvim&show_icons=true&theme=dracula">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioMarvim&hide=html,css&layout=donut&theme=dracula">
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -20,8 +24,6 @@ Sou Desenvolvedor backend a aproximadamente 5 anos. Para me conhecer melhor vou 
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioMarvim&hide=html,css)
 
 Sou apaixonado por programação e arquitetura de software. Atualmente estou descobrindo uma nova paixão, criar conteúdos 🥰. Vou deixar aqui uma lista com meus ultimos vídeos.
 
