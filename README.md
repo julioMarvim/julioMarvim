@@ -5,6 +5,7 @@ Sou Desenvolvedor backend a aproximadamente 5 anos. Para me conhecer melhor vou 
 [![Site](https://img.shields.io/badge/juliomarvim.com.br-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://juliomarvim.com.br)
 [![Instagram](https://img.shields.io/badge/marvim.code-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marvim.code/)
 [![Facebook](https://img.shields.io/badge/marvim.code-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100091752773027)
+[![LinkedIn](https://img.shields.io/badge/marvinsjulio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marvinsjulio)
 
 ![Julio Marvim GitHub stats](https://github-readme-stats.vercel.app/api?username=julioMarvim&show_icons=true&theme=dracula)
 
