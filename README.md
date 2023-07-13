@@ -10,7 +10,7 @@ Sou Desenvolvedor backend a aproximadamente 5 anos. Para me conhecer melhor vou 
 <div>
   <a href="https://github.com/julioMarvim">
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julioMarvim&show_icons=true&theme=dracula">
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julioMarvim&hide=html,css&layout=donut&theme=dracula">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioMarvim&hide=html,css&layout=donut&theme=dracula">
 </div>
 
 ## Tecnologias que eu uso no meu dia
